@@ -10,7 +10,7 @@ typedef unsigned long uint32;
  
 #define HIGH_TIME 32
  
-int pinNumber =1;  //use gpio1 to read data
+int pinNumber =23;  //use gpio23 to read data
 uint32 databuf;
  
  
