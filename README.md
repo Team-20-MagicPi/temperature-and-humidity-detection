@@ -12,6 +12,7 @@ DHT22 main features:
  Applicable to 0-100% humidity readings with accuracy of 2-5%
  Suitable for temperature readings from -40 to 125°C with accuracy of ±0.5°C
  Sampling rate not exceeding 0.5 Hz (every 2 seconds)
+ 
 Pin 1 -- Vcc ==3.3 V/5v
 
 Pin 2 -- Data ==GPIO 13
