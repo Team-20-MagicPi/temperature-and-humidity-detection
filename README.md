@@ -5,16 +5,16 @@ Low-cost DHT temperature and humidity sensor has a general basic function, speed
 
 DHT22 main features:
 3.3 to 5V power supply and I/O
- Maximum current during conversion is 2.5mA
+ Maximum current during conversion is 2.5mA;
  Applicable to 0-100% humidity readings with accuracy of 2-5%
  Suitable for temperature readings from -40 to 125°C with accuracy of ±0.5°C
  Sampling rate not exceeding 0.5 Hz (every 2 seconds)
-1, Pin 1 -- Vcc ==3.3 V/5v
+Pin 1 -- Vcc ==3.3 V/5v
 
-2, Pin 2 -- Data ==GPIO 13
+Pin 2 -- Data ==GPIO 13
 
-3. Pin 3 -- Unconnected
-4. 
-4, Pin 4 -- GND ==Gnd
+Pin 3 -- Unconnected
+
+Pin 4 -- GND ==Gnd
 
 ![image](https://user-images.githubusercontent.com/80400850/115265202-9518ca80-a169-11eb-90ec-2b07fa2b0485.png)
