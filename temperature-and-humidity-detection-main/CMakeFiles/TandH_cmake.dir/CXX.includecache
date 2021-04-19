@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/temperature-and-humidity-detection-main/temperature_and_humidity_detection.cpp
+wiringPi.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/usr/local/include/wiringPi.h
+

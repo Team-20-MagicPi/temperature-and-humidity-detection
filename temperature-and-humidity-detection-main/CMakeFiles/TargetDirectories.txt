@@ -1,0 +1,3 @@
+/home/pi/temperature-and-humidity-detection-main/CMakeFiles/rebuild_cache.dir
+/home/pi/temperature-and-humidity-detection-main/CMakeFiles/TandH_cmake.dir
+/home/pi/temperature-and-humidity-detection-main/CMakeFiles/edit_cache.dir

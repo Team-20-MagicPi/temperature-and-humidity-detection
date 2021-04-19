@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/TandH_cmake.dir/temperature_and_humidity_detection.cpp.o  -o TandH_cmake -Wl,-rpath,/usr/local/lib /usr/local/lib/libwiringPi.so 
