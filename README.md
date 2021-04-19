@@ -10,7 +10,11 @@ DHT22 main features:
  Suitable for temperature readings from -40 to 125°C with accuracy of ±0.5°C
  Sampling rate not exceeding 0.5 Hz (every 2 seconds)
 1, Pin 1 -- Vcc ==3.3 V/5v
+
 2, Pin 2 -- Data ==GPIO 13
+
 3. Pin 3 -- Unconnected
+4. 
 4, Pin 4 -- GND ==Gnd
+
 ![image](https://user-images.githubusercontent.com/80400850/115265202-9518ca80-a169-11eb-90ec-2b07fa2b0485.png)
