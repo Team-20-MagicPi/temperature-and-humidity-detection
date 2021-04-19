@@ -1,5 +1,4 @@
-//
-//mydht11.c
+//The temperature and humidity detector
 //
 #include <wiringPi.h>
 #include <stdio.h>
